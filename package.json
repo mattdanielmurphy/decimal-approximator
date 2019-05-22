@@ -1,0 +1,9 @@
+{
+  "name": "decimal-approximator",
+  "version": "1.0.0",
+  "description": "Approximate decimals (or constants) in fractions! Can specify the decimal to approximate, how many digits are to be used in the fraction as well as the minimum digits of accuracy.",
+  "main": "decimal-approximator.js",
+  "repository": "https://github.com/mattdanielmurphy/decimal-approximator",
+  "author": "Matthew Daniel Murphy",
+  "license": "MIT"
+}
