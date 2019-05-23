@@ -8,5 +8,6 @@
 	"license": "MIT",
 	"bin": {
 		"fractionize": "fractionize.js"
-	}
+	},
+	"dependencies": {}
 }

@@ -9,6 +9,10 @@ Specify:
 
 and Fractionize will return a list of qualifying unique fractions!
 
+## Install
+
+    npm i -g fractionize
+
 ## Examples
 
 Find approximations for popular constants:
